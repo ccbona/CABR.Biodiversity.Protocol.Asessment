@@ -1,0 +1,507 @@
+Genus,Species,Common Name(s),Identified by,Oxy Fish Inventory?,SWAT Comprehensives?,Vouchered?,CABR LT,full,Zedler,ucsc,species_code,scientific_name,code_1990,name_1990,code_2000,name_2000,,mobility,type
+Unidentified anemone,spp,,,,,,,Unidentified anemone spp,Unidentified anemone spp,NA,ANEMON,Anemones (generic),OTHANI,Animals,ANTELS,Anthopleura elegantissima/sola,,sessile,sessile invertebrates
+Anthopleura,eleganitssima,Aggregating Anemone,Bonnie Becker,,X,,Anthopleura elegantissima/sola,Anthopleura eleganitssima,Anthopleura eleganitssima,Anthopleura elegantissima,ANTELS,Anthopleura elegantissima/sola,OTHANI,Animals,ANTELS,Anthopleura elegantissima/sola,,sessile,sessile invertebrates
+Anthopleura,sola,Solitary anemone,SWAT 2002,,X,,,Anthopleura sola,NA,Anthopleura sola,ANTELS,Anthopleura elegantissima/sola,OTHANI,Animals,ANTELS,Anthopleura elegantissima/sola,,sessile,sessile invertebrates
+Corallina,frondescens,,,,,,,Corallina frondescens,Corallina frondescens,Corallina spp,ARTCOR,Articulated corallines,OTHPLA,Algae/plants,ARTCOR,Articulated corallines,,sessile,algae
+Corallina,officinalis var chilensis,,Tiffany Luas,,,X,,Corallina officinalis var chilensis,Corallina officinalis var chilensis,Corallina spp,ARTCOR,Articulated corallines,OTHPLA,Algae/plants,ARTCOR,Articulated corallines,,sessile,algae
+Corallina,pinnatifolia,,,,,,,Corallina pinnatifolia,Corallina pinnatifolia,Corallina spp,ARTCOR,Articulated corallines,OTHPLA,Algae/plants,ARTCOR,Articulated corallines,,sessile,algae
+Corallina,polysticha,,,,,,,Corallina polysticha,Corallina polysticha,Corallina spp,ARTCOR,Articulated corallines,OTHPLA,Algae/plants,ARTCOR,Articulated corallines,,sessile,algae
+Corallina,spp,,SWAT 2002,,X,,,Corallina spp,NA,Corallina spp,ARTCOR,Articulated corallines,OTHPLA,Algae/plants,ARTCOR,Articulated corallines,,sessile,algae
+Corallina,vancouveriensis,,,,,,,Corallina vancouveriensis,Corallina vancouveriensis,Corallina spp,ARTCOR,Articulated corallines,OTHPLA,Algae/plants,ARTCOR,Articulated corallines,,sessile,algae
+Haliptylon,gracile,,,,,,,Haliptylon gracile,Haliptylon gracile,NA,ARTCOR,Articulated corallines,OTHPLA,Algae/plants,ARTCOR,Articulated corallines,,sessile,algae
+Jania,tenella,,,,,,,Jania tenella,Jania tenella,NA,ARTCOR,Articulated corallines,OTHPLA,Algae/plants,ARTCOR,Articulated corallines,,sessile,algae
+,,,,,,,,NA,NA,Nuttallina spp,CHITON,Chiton,OTHANI,Animals,CHITON,Chiton,,sessile,sessile invertebrates
+Chondracanthus,canaliculatus,,SWAT 2002,,X,X,,Chondracanthus canaliculatus,Chondracanthus canaliculatus,Chondracanthus canaliculatus,CHOCAN,Chondracanthus canaliculatus,OTHPLA,Algae/plants,CHOCAN,Chondracanthus canaliculatus,,sessile,algae
+Balanus,glandula,Acorn barnacle,SWAT 2002,,X,,,Balanus glandula,Balanus glandula,Balanus glandula,CHTBAL,Balanus/chthamalus,CHTBAL,Balanus/Chthamalus,CHTBAL,Balanus/chthamalus,,sessile,sessile invertebrates
+Chthamalus,fissus,Acorn barnacle,,,,,,Chthamalus fissus,Chthamalus fissus,Chthamalus dalli/fissus,CHTBAL,Balanus/chthamalus,CHTBAL,Balanus/Chthamalus,CHTBAL,Balanus/chthamalus,,sessile,sessile invertebrates
+Chthamalus,spp,,SWAT 2002,,X,,,Chthamalus spp,NA,NA,CHTBAL,Balanus/chthamalus,CHTBAL,Balanus/Chthamalus,CHTBAL,Balanus/chthamalus,,sessile,sessile invertebrates
+Cladophora,spp,,,,,,,Cladophora spp,Cladophora spp,Acrosiphonia/Cladophora spp,CLACOL,Cladophora columbiana,OTHPLA,Algae/plants,CLACOL,Cladophora columbiana,,sessile,algae
+Colpomenia,sinuosa,Bubble algae,Tiffany Luas,,,X,,Colpomenia sinuosa,Colpomenia sinuosa,Colpomenia/Leathesia spp,COLPOM,Colpomenia,OTHPLA,Algae/plants,COLPOM,Colpomenia,,sessile,algae
+Colpomenia,spp,,SWAT 2002,,X,,,Colpomenia spp,NA,Colpomenia/Leathesia spp,COLPOM,Colpomenia,OTHPLA,Algae/plants,COLPOM,Colpomenia,,sessile,algae
+Bossiella,orbigniana ssp dichotoma,,,,,,,Bossiella orbigniana ssp dichotoma,Bossiella orbigniana ssp dichotoma,Bossiella spp,CRUCOR,Crustose corallines,OTHPLA,Algae/plants,CRUCOR,Crustose corallines,,sessile,algae
+Bossiella,orbigniana ssp orbigniana,,,,,,,Bossiella orbigniana ssp orbigniana,Bossiella orbigniana ssp orbigniana,Bossiella spp,CRUCOR,Crustose corallines,OTHPLA,Algae/plants,CRUCOR,Crustose corallines,,sessile,algae
+Bossiella,spp,,SWAT 2002,,X,,,Bossiella spp,NA,Bossiella spp,CRUCOR,Crustose corallines,OTHPLA,Algae/plants,CRUCOR,Crustose corallines,,sessile,algae
+Calliarthron,spp,,SWAT 2002,,X,,,Calliarthron spp,NA,Calliarthron spp,CRUCOR,Crustose corallines,OTHPLA,Algae/plants,CRUCOR,Crustose corallines,,sessile,algae
+,,,,,,,,NA,NA,Encrusting coralline,CRUCOR,Crustose corallines,OTHPLA,Algae/plants,CRUCOR,Crustose corallines,,sessile,algae
+Egregia,menziesii,Feather boa kelp,Chris Janousek,,X,,,Egregia menziesii,Egregia menziesii,Egregia menziesii,EGRMEN,Egregia menziesii,OTHPLA,Algae/plants,EGRMEN,Egregia menziesii,,sessile,algae
+Eisenia,arborea,Southern sea palm,Chris Janousek,,X,,,Eisenia arborea,Eisenia arborea,Eisenia arborea,EISARB,Eisenia arborea,OTHPLA,Algae/plants,EISARB,Eisenia arborea,,sessile,algae
+Endocladia,muricata,,,,,,,Endocladia muricata,Endocladia muricata,Endocladia muricata,ENDMUR,Endocladia muricata,OTHPLA,Algae/plants,ENDMUR,Endocladia muricata,,sessile,algae
+Endarachne,binghamiae,,SWAT 2002,,X,,,Endarachne binghamiae,Endarachne binghamiae,Endarachne/Petalonia/Phaeostrophion spp,ENDPET,Endarachne / petalonia,OTHPLA,Algae/plants,ENDPET,Endarachne / petalonia,,sessile,algae
+,,,,,,,,NA,NA,Fucus spp,FUCGAR,Fucus gardneri,OTHPLA,Algae/plants,FUCGAR,Fucus gardneri,,sessile,algae
+Gelidium,coulteri,,SWAT 2002,,X,,,Gelidium coulteri,Gelidium coulteri,Gelidium spp,GELSPP,Gelidium species,OTHPLA,Algae/plants,GELSPP,Gelidium species,,sessile,algae
+Gelidium,nudifrons,,,,,,,Gelidium nudifrons,Gelidium nudifrons,Gelidium spp,GELSPP,Gelidium species,OTHPLA,Algae/plants,GELSPP,Gelidium species,,sessile,algae
+Gelidium,pusillum,,SWAT 2002,,X,X,,Gelidium pusillum,Gelidium pusillum,Gelidium spp,GELSPP,Gelidium species,OTHPLA,Algae/plants,GELSPP,Gelidium species,,sessile,algae
+Gelidium,robustum,,SWAT 2002,,X,,,Gelidium robustum,Gelidium robustum,Gelidium robustum,GELSPP,Gelidium species,OTHPLA,Algae/plants,GELSPP,Gelidium species,,sessile,algae
+,,,,,,,,NA,NA,Gelidium purpurascens,GELSPP,Gelidium species,OTHPLA,Algae/plants,GELSPP,Gelidium species,,sessile,algae
+Pelvetiopsis,californica,,not seen?,,,,added-CB,Pelvetiopsis californica,NA,Pelvetiopsis californica,HESCAL,Hesperophycus californica,OTHPLA,Algae/plants,HESCAL,Hesperophycus californica,,sessile,algae
+Lottia,conus,,,,,,,Lottia conus,Lottia conus,Lottia scabra/conus,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Lottia,strigatella,,,,,,,Lottia strigatella,Lottia strigatella,NA,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Lottia,asmi,Black limpet,,,,,,Lottia asmi,Lottia asmi,NA,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Lottia,digitalis,"Ribbed limpet, fingered limpet",Bonnie Becker,,X,,,Lottia digitalis,Lottia digitalis,Lottia austrodigitalis/digitalis,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Lottia,limatula,File Limpet,SWAT 2002,,X,,,Lottia limatula,Lottia limatula,Lottia limatula,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Lottia,paradigitalis,,SWAT 2002,,X,,,Lottia paradigitalis,NA,NA,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Lottia,pelta,Shield limpet,SWAT 2002,,X,,,Lottia pelta,Lottia pelta,NA,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Macklintockia,scabra,Rough limpet,Bonnie Becker,,X,,,Macklintockia scabra,Macklintockia scabra,NA,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Notoacmea,insessa,Seaweed Limpet,,,,,,Notoacmea insessa,Notoacmea insessa,NA,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Tectura,paleacea,Surfgrass Limpet,Bonnie Becker,,,X,,Tectura paleacea,Tectura paleacea,NA,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Diodora,aspera,Rough Keyhole Limpet,,,,,,Diodora aspera,Diodora aspera,NA,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Fisurella,volcano,Volcano Limpet,Bonnie Becker,,X,,,Fisurella volcano,Fisurella volcano,Fissurella volcano,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Megathura,crenulata,Giant keyhole limpet,Bonnie Becker,,,,,Megathura crenulata,Megathura crenulata,Megathura crenulata,LIMPET,Limpet,OTHANI,Animals,LIMPET,Limpet,,sessile,sessile invertebrates
+Lottia,gigantea,Owl limpet,Bonnie Becker,,X,,,Lottia gigantea,Lottia gigantea,Lottia gigantea,LOTGIG,Lottia gigantea,OTHANI,Animals,LOTGIG,Lottia gigantea,,sessile,sessile invertebrates
+Mastocarpus,papillatus,,not seen?,,,,added-CB,Mastocarpus papillatus,NA,Mastocarpus spp,MASPAP,Mastocarpus papillatus,OTHPLA,Algae/plants,MASPAP,Mastocarpus papillatus,,sessile,algae
+Mazzaella,affinus,,SWAT 2002,,X,,,Mazzaella affinus,Mazzaella affinus,Mazzaella affinis,MAZAFF,Mazzaella affinis,OTHPLA,Algae/plants,MAZSPP,Mazzaella spp,,sessile,algae
+Mazzaella,leptorhynchos,,,,,,,Mazzaella leptorhynchos,Mazzaella leptorhynchos,Mazzaella leptorhynchos,MAZSPP,Mazzaella spp,OTHPLA,Algae/plants,MAZSPP,Mazzaella spp,,sessile,algae
+Mexicanthina,lugubris,Unicorn,Bonnie Becker,,,,,Mexicanthina lugubris,Mexicanthina lugubris,Mexacanthina lugubris,MEXLUG,Mexacanthina lugubris,OTHANI,Animals,MEXLUG,Mexacanthina lugubris,,mobile,mobile invertebrates
+Mytilus,californianus,"California mussel, sea mussel",Bonnie Becker,,X,,,Mytilus californianus,Mytilus californianus,Mytilus californianus,MYTCAL,Mytilus californianus,MYTCAL,Mytilus,MYTCAL,Mytilus californianus,,sessile,sessile invertebrates
+Atherinops,affinis,topsmelt,Matt Craig,X,,,,Atherinops affinis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Atherinopsis,californiensis,jacksmelt,Matt Craig,X,,X,,Atherinopsis californiensis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Leuresthes,tenuis,California grunion,Matt Craig,X,,X,,Leuresthes tenuis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Porichthys,myriaster,specklefin midshipman,Matt Craig,X,,,,Porichthys myriaster,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Gobiesox,rhessodon,California clingfish,Matt Craig,X,,X,,Gobiesox rhessodon,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Rimicola,eigenmanni,slender clingfish,Matt Craig,X,,X,,Rimicola eigenmanni,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Hypsoblennius,gilberti,rockpool blenny,Matt Craig,X,,X,,Hypsoblennius gilberti,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Hypsoblennius,jenkinsi,mussel blenny,Matt Craig,X,,X,,Hypsoblennius jenkinsi,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Trachurus,symmetricus,jack mackerel,Matt Craig,X,,X,,Trachurus symmetricus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Gibbonsia,elegans,spotted kelpfish,Matt Craig,X,,X,,Gibbonsia elegans,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Gibbonsia,metzi,striped kelpfish,Matt Craig,X,,X,,Gibbonsia metzi,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Heterostichus,rostratus,giant kelpfish,Matt Craig,X,,X,,Heterostichus rostratus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Brachyistius,frenatus,kelp perch,Matt Craig,X,,,,Brachyistius frenatus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Embiotoca,jacksoni,black perch,Matt Craig,X,,X,,Embiotoca jacksoni,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Hyperprosopon,argenteum,walleye surfperch,Matt Craig,X,,X,,Hyperprosopon argenteum,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Hypsurus,caryi,rainbow seaperch,Matt Craig,X,,,,Hypsurus caryi,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Micrometrus,minimus,dwarf surfperch,Matt Craig,X,,,,Micrometrus minimus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Phanerodon,furcatus,white seaperch,Matt Craig,X,,,,Phanerodon furcatus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Rhacochilus,toxotes,rubberlib seaperch,Matt Craig,X,,,,Rhacochilus toxotes,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Rhacochilus,vacca,pile perch,Matt Craig,X,,,,Rhacochilus vacca,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Gobiidae,sp,,Matt Craig,X,,,,Gobiidae sp,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Typhlogobius,californiensis,blind goby,Matt Craig,X,,X,,Typhlogobius californiensis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Anisotremus,davidsoni,sargo,Matt Craig,X,,X,,Anisotremus davidsoni,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Xenistius,californiensis,salema,Matt Craig,X,,,,Xenistius californiensis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Girella,nigricans,Opaleye,Matt Craig,X,,X,,Girella nigricans,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Hermosilla,azurea,zebraperch,Matt Craig,X,,X,,Hermosilla azurea,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Medialuna,californiensis,halfmoon,Matt Craig,X,,X,,Medialuna californiensis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Halichoeres,semicinctus,rock wrasse,Matt Craig,X,,X,,Halichoeres semicinctus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Oxyjulis,californica,senorita,Matt Craig,X,,,,Oxyjulis californica,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Semicossyphus,pulcher,California sheephead,Matt Craig,X,,X,,Semicossyphus pulcher,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Paraclinus,integripinnis,reef finspot,Matt Craig,X,,X,,Paraclinus integripinnis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Hypsypops,rubicundus,garibaldi,Matt Craig,X,,,,Hypsypops rubicundus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Atractoscion,nobilis,white seabass,Matt Craig,X,,X,,Atractoscion nobilis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Cheilotrema,saturnum,black croaker,Matt Craig,X,,X,,Cheilotrema saturnum,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Menticirrhus,undulatus,California corbina,Matt Craig,X,,X,,Menticirrhus undulatus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Seriphus,politus,queenfish,Matt Craig,X,,X,,Seriphus politus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Umbrina,roncador,yellowfin croaker,Matt Craig,X,,X,,Umbrina roncador,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Paralabrax,clathratus,kelp bass,Matt Craig,X,,X,,Paralabrax clathratus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Paralabrax,nebulifer,barred sand bass,Matt Craig,X,,,,Paralabrax nebulifer,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Sphyraena,argentea,Pacific barracuda,Matt Craig,X,,,,Sphyraena argentea,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Clinocottus,analis,wooly sculpin,Matt Craig,X,,X,,Clinocottus analis,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Cottidae,sp,,Matt Craig,X,,,,Cottidae sp,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Scorpaenichthys,marmoratus,cabezon,Matt Craig,X,,X,,Scorpaenichthys marmoratus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Scorpaena,guttata,California scorpionfish,Matt Craig,X,,X,,Scorpaena guttata,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Sebastes,atrovirens,kelp rockfish,Matt Craig,X,,,,Sebastes atrovirens,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Sebastes,rastrelliger,grass rockfish,Matt Craig,X,,,,Sebastes rastrelliger,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Mustelus,californicus,gray smoothound,Matt Craig,X,,X,,Mustelus californicus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Triakis,semifasciata,leopard shark,Matt Craig,X,,X,,Triakis semifasciata,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Heterodontus,francisci,horn shark,Matt Craig,X,,,,Heterodontus francisci,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Rhinobatos,productus,shovelnose guitarfish,Matt Craig,X,,,,Rhinobatos productus,NA,NA,NA,NA,NA,NA,NA,NA,,mobile,
+Mytilus,galloprovincialis,Bay mussel,Bonnie Becker,,,,,Mytilus galloprovincialis,NA,NA,NA,NA,NA,NA,NA,NA,,sessile,
+Hildenbrandia,spp,,,,,,,Hildenbrandia spp,Hildenbrandia spp,Non Coralline crust,NONCRU,Non-coralline crust,OTHPLA,Algae/plants,NONCRU,Non-coralline crust,,sessile,algae
+,,,,,,,,NA,NA,Red Crust,NONCRU,Non-coralline crust,OTHPLA,Algae/plants,NONCRU,Non-coralline crust,,sessile,algae
+Petrospongium,rugosum,,SWAT 2002,,X,,,Petrospongium rugosum,NA,Petrospongium rugosum,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Analipus,japonicus,,,,,,,Analipus japonicus,Analipus japonicus,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Cylindrocarpus,rugosus,,,,,,,Cylindrocarpus rugosus,Cylindrocarpus rugosus,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Pseudolithoderma,nigra,,SWAT 2002,,X,,,Pseudolithoderma nigra,NA,Pseudolithoderma nigra,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Ralfsia,spp,,SWAT 2002,,X,,,Ralfsia spp,Ralfsia spp,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Dictyopteris,undulata,,SWAT 2002,,X,,,Dictyopteris undulata,Dictyopteris undulata,Dictyopteris undulata,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Dictyota,flabellata,,SWAT 2002,,X,,,Dictyota flabellata,Dictyota flabellata,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Pachydictyon,coriaceum,,Tiffany Luas,,X,X,,Pachydictyon coriaceum,Pachydictyon coriaceum,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Taonia,lennebackeriae,,Tiffany Luas,,X,X,,Taonia lennebackeriae,Taonia lennebackeriae,Taonia lennebackerae,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Ectocarpus,parvus,,,,,,,Ectocarpus parvus,Ectocarpus parvus,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Sargassum,agardhianum,Native sargassum weed,Chris Janousek,,X,,,Sargassum agardhianum,Sargassum agardhianum,Sargassum agardhianum,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Pterygophora,californica,,,,,,,Pterygophora californica,Pterygophora californica,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Laminaria,farlowii,,,,,,,Laminaria farlowii,Laminaria farlowii,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Macrocystis,integrifolia,,,,,,,Macrocystis integrifolia,Macrocystis integrifolia,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Macrocystis,pyrifera,Giant kelp,Chris Janousek,,,X,,Macrocystis pyrifera,Macrocystis pyrifera,Macrocystis pyrifera,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Pelagophycus,porra,,,,,,,Pelagophycus porra,Pelagophycus porra,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Sphacelaria,californica,,SWAT 2002,,X,X,,Sphacelaria californica,Sphacelaria californica,Sphacelaria californica,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Sphacelaria,didichotoma,,,,,,,Sphacelaria didichotoma,Sphacelaria didichotoma,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Plocamium,pacificum,,Chris Janousek,,,,,Plocamium pacificum,Plocamium pacificum,NA,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+,,,,,,,,NA,NA,Dictyota coriacea,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+,,,,,,,,NA,NA,Hapterophycus canaliculatus,OTHBRO,Other brown algae,OTHPLA,Algae/plants,OTHBRO,Other brown algae,,sessile,algae
+Chaetomorpha,linum,,,,,,,Chaetomorpha linum,Chaetomorpha linum,Chaetomorpha spp,OTHGRE,Other green algae,OTHPLA,Algae/plants,OTHGRE,Other green algae,,sessile,algae
+Chaetomorpha,spp,,SWAT 2002,,X,,,Chaetomorpha spp,NA,Chaetomorpha spp,OTHGRE,Other green algae,OTHPLA,Algae/plants,OTHGRE,Other green algae,,sessile,algae
+Cladophora,graminea,,SWAT 2002,,X,,,Cladophora graminea,NA,Cladophora graminea,OTHGRE,Other green algae,OTHPLA,Algae/plants,OTHGRE,Other green algae,,sessile,algae
+Bryopsis,corticulans,,SWAT 2002,,X,,,Bryopsis corticulans,NA,NA,OTHGRE,Other green algae,OTHPLA,Algae/plants,OTHGRE,Other green algae,,sessile,algae
+Bryopsis,pinnatula,,,,,,,Bryopsis pinnatula,Bryopsis pinnatula,NA,OTHGRE,Other green algae,OTHPLA,Algae/plants,OTHGRE,Other green algae,,sessile,algae
+Codium,fragile,Dead Man's Fingers,Chris Janousek,,X,X,,Codium fragile,Codium fragile,Codium fragile,OTHGRE,Other green algae,OTHPLA,Algae/plants,OTHGRE,Other green algae,,sessile,algae
+Unidentified nereid worm,spp,,,,,,,Unidentified nereid worm spp,Unidentified nereid worm spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Lumbrineris,spp,,Leslie Harris,,,,,Lumbrineris spp,Lumbrineris spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Halosydna,brevisetosa,Scaleworm,Leslie Harris,,,,,Halosydna brevisetosa,Halosydna brevisetosa,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Unidentified amphipods,spp,,,,,,,Unidentified amphipods spp,Unidentified amphipods spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Cancer,antennarius,Rock crab,,,,,,Cancer antennarius,Cancer antennarius,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pachygrapsus,crassipes,Lined shore crab,Bonnie Becker,,X,,,Pachygrapsus crassipes,Pachygrapsus crassipes,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Heptacarpus,pictus,Caridean shrimp,Bonnie Becker,,,,,Heptacarpus pictus,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Lysmata,californica,red rock shrimp,,,,,,Lysmata californica,Lysmata californica,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Spirontocaris,picta,,,,,,,Spirontocaris picta,Spirontocaris picta,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Loxorhynchus,crispatus,"masking crab, moss crab",,,,,,Loxorhynchus crispatus,Loxorhynchus crispatus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Taliepus,nuttali,Globose kelp crab,Bonnie Becker,,,,,Taliepus nuttali,Taliepus nuttali,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pagurus,hirsutiusculus,hermit crab,SWAT 2002,,X,,,Pagurus hirsutiusculus,Pagurus hirsutiusculus,Pagurus hirsutiusculus,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pagurus,samuelis,hermit crab,SWAT 2002,,X,,,Pagurus samuelis,Pagurus samuelis,Pagurus samuelis,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Panulirus,interruptus,California Spiny Lobster,Bonnie Becker,,,,,Panulirus interruptus,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Petrolisthes,cinctipes,Flat Porcelain Crab,,,,,,Petrolisthes cinctipes,Petrolisthes cinctipes,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Paraxanthias,taylori,Lumpy pebble crab,Bonnie Becker,,,,,Paraxanthias taylori,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pentidotea,resecata,,,,,,,Pentidotea resecata,Pentidotea resecata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Cirolana,harfordi,,,,,,,Cirolana harfordi,Cirolana harfordi,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Idotea,urotoma,Flat-tailed Isopod,Bonnie Becker,,,,,Idotea urotoma,Idotea urotoma,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ligia,occidentalis,Rock louse,Bonnie Becker,,,,,Ligia occidentalis,Ligia occidentalis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Caprella,californica,,Todd Haney (LACNHM),,,,,Caprella californica,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Caprella,incisa,,Todd Haney (LACNHM),,,,,Caprella incisa,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Gammaridean,sp a,,Todd Haney (LACNHM),,,,,Gammaridean sp a,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Gammaridean,sp b,,Todd Haney (LACNHM),,,,,Gammaridean sp b,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Gammaridean,sp c,,Todd Haney (LACNHM),,,,,Gammaridean sp c,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Orchestoidea,sp,,Todd Haney (LACNHM),,,,,Orchestoidea sp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Alpheus,sp,,Todd Haney (LACNHM),,,,,Alpheus sp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Cancer,branneri,,Todd Haney (LACNHM),,,,,Cancer branneri,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Crangon,alba,,Todd Haney (LACNHM),,,,,Crangon alba,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Crangon,nigricauda,,Todd Haney (LACNHM),,,,,Crangon nigricauda,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Cycloxanthops,novemdentatus,,Todd Haney (LACNHM),,,,,Cycloxanthops novemdentatus,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Heptacarpus,taylori,,Todd Haney (LACNHM),,,,,Heptacarpus taylori,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Lebbeus,lagunae,,Todd Haney (LACNHM),,,,,Lebbeus lagunae,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Lophopanopeus,bellus,,Todd Haney (LACNHM),,,,,Lophopanopeus bellus,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pilumnus,spinohirsutus,,Todd Haney (LACNHM),,,,,Pilumnus spinohirsutus,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pugettia,dalli,,Todd Haney (LACNHM),,,,,Pugettia dalli,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pugettia,producta,,Todd Haney (LACNHM),,,,,Pugettia producta,Pugettia producta,Pugettia producta,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Idotea,aculeata,,Todd Haney (LACNHM),,,,,Idotea aculeata,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Idotea,kirchanskii,,Todd Haney (LACNHM),,,,,Idotea kirchanskii,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Paranthura,elegans,,Todd Haney (LACNHM),,,,,Paranthura elegans,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Unidentified tanaid,sp,,Todd Haney (LACNHM),,,,,Unidentified tanaid sp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Unidentified copepod,sp,,Todd Haney (LACNHM),,,,,Unidentified copepod sp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Unidentified ostracod,sp,,Todd Haney (LACNHM),,,,,Unidentified ostracod sp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Astrometis,sertulifera,Soft seastar,Bonnie Becker,,,,,Astrometis sertulifera,Astrometis sertulifera,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pisaster,giganteus,"Knobby seastar, blue seastar",Bonnie Becker,,,,,Pisaster giganteus,Pisaster giganteus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Asterina,miniata,Bat star,Bonnie Becker,,,,,Asterina miniata,Asterina miniata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Strongylocentrotus,franciscanus,Red sea urchin,Bonnie Becker,,,,,Strongylocentrotus franciscanus,Strongylocentrotus franciscanus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Strongylocentrotus,purpuratus,Purple sea urchin,Bonnie Becker,,,,,Strongylocentrotus purpuratus,Strongylocentrotus purpuratus,Strongylocentrotus purpuratus,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Lytechinus,anamesus,,,,,,,Lytechinus anamesus,Lytechinus anamesus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Parastichopus,parvimensis,Warty sea cucumber,Bonnie Becker,,,,,Parastichopus parvimensis,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Amphipholis,pugetana,,,,,,,Amphipholis pugetana,Amphipholis pugetana,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ophioderma,panamense,Panamanian serpent star,Bonnie Becker,,,,,Ophioderma panamense,Ophioderma panamense,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ophionereis,annulata,Banded brittle star,Bonnie Becker,,,,,Ophionereis annulata,Ophionereis annulata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ophiothrix,rudis,,,,,,,Ophiothrix rudis,Ophiothrix rudis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ophiothrix,spiculata,Spiny brittle star,Bonnie Becker,,,,,Ophiothrix spiculata,Ophiothrix spiculata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ophioplocus,esmarki,Esmark's Serpent Star,,,,,,Ophioplocus esmarki,Ophioplocus esmarki,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ophiopteris,papillosa,Flat-Spined Brittle Star,,,,,,Ophiopteris papillosa,Ophiopteris papillosa,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Octopus,bimaculoides,Two-spotted octopus,Bonnie Becker,,,,,Octopus bimaculoides,Octopus bimaculoides,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Caecum,californicum,,,,,,,Caecum californicum,Caecum californicum,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Caecum,crebricinctum,,,,,,,Caecum crebricinctum,Caecum crebricinctum,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Cerithiopsis,cosmia,,,,,,,Cerithiopsis cosmia,Cerithiopsis cosmia,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Fartulum,orcutti,,,,,,,Fartulum orcutti,Fartulum orcutti,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Hipponix,antiquatus,,,,,,,Hipponix antiquatus,Hipponix antiquatus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Hyalina,taeniolata,,,,,,,Hyalina taeniolata,Hyalina taeniolata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Nassarina,penicillata,,,,,,,Nassarina penicillata,Nassarina penicillata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Notoacmea,fenestrata,,,,,,,Notoacmea fenestrata,Notoacmea fenestrata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Odostomia,nota,,,,,,,Odostomia nota,Odostomia nota,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pedipes,unisulcatus,,,,,,,Pedipes unisulcatus,Pedipes unisulcatus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Seila,monteryensis,,,,,,,Seila monteryensis,Seila monteryensis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Teinostoma,supravallatum,,,,,,,Teinostoma supravallatum,Teinostoma supravallatum,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Tricolia,pulloides,,,,,,,Tricolia pulloides,Tricolia pulloides,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Tricolia,rubrilineata,,,,,,,Tricolia rubrilineata,Tricolia rubrilineata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Triphora,pedroana,,,,,,,Triphora pedroana,Triphora pedroana,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Turbonilla,jewetti,,,,,,,Turbonilla jewetti,Turbonilla jewetti,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Turbonilla,kelseyi,,,,,,,Turbonilla kelseyi,Turbonilla kelseyi,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Turbonilla,tenuicula,,,,,,,Turbonilla tenuicula,Turbonilla tenuicula,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Aplysia,californica,California Brown Sea Hare,Jeff Goddard,,,,,Aplysia californica,Aplysia californica,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Aplysia,vaccaria,California Black Sea Hare,Jeff Goddard,,,,,Aplysia vaccaria,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Acmaea,rosacea,,,,,,,Acmaea rosacea,Acmaea rosacea,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Norrisia,norrisi,Norris' top snail,Bonnie Becker,,,,,Norrisia norrisi,Norrisia norrisi,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Tegula,aureotincta,,Bonnie Becker,,X,,,Tegula aureotincta,Tegula aureotincta,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Tegula,eiseni,Banded tegula,Bonnie Becker,,X,,,Tegula eiseni,Tegula eiseni,Tegula eiseni,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Tegula,funebralis,"Black turban snail, Black Tegula",SWAT 2002,,X,,,Tegula funebralis,Tegula funebralis,Tegula funebralis,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Homalopoma,luridum,,,,,,,Homalopoma luridum,Homalopoma luridum,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Lithopoma,gibberosum,,SWAT 2002,,X,,,Lithopoma gibberosum,NA,Lithopoma gibberosum,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Lithopoma,undosa,Wavy Turban Snail,Bonnie Becker,,,,,Lithopoma undosa,Lithopoma undosa,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Trimusculus,reticulatus,Reticulate Button Snail,,,,,,Trimusculus reticulatus,Trimusculus reticulatus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Navanax,inermis,,Bonnie Becker,,,,,Navanax inermis,Navanax inermis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Haminoea,virescens,,,,,,,Haminoea virescens,Haminoea virescens,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Crepidula,aculeata,Spiny Slipper Snail,,,,,,Crepidula aculeata,Crepidula aculeata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Crepidula,adunca,Hooked Slipper Snail,,,,,,Crepidula adunca,Crepidula adunca,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Crepidula,norrisiarum,,,,,,,Crepidula norrisiarum,Crepidula norrisiarum,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Crepidula,onyx,Onyx Slipper Snail,,,,,,Crepidula onyx,Crepidula onyx,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Crepidula,perforans,Western White Slipper Snail,,,,,,Crepidula perforans,Crepidula perforans,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Crepipatella,lingulata,Half-Slipper Snail,,,,,,Crepipatella lingulata,Crepipatella lingulata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Cypraea,spadicea,Chestnut cowrie,Bonnie Becker,,,,,Cypraea spadicea,Cypraea spadicea,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Epitonium,tinctum,Tinted Wentletrap,,,,,,Epitonium tinctum,Epitonium tinctum,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Opalia,funiculata,Sculptured Wentletrap,,,,,,Opalia funiculata,Opalia funiculata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Janthina,janthina,,Paul Dayton,,,X,,Janthina janthina,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Lacuna,unifasciata,,,,,,,Lacuna unifasciata,Lacuna unifasciata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Littorina,keenae,Gray Periwinkle,Bonnie Becker,,X,,,Littorina keenae,Littorina keenae,Littorina spp.,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Littorina,scutulata,Checkered periwinkle,Bonnie Becker,,X,,,Littorina scutulata,Littorina scutulata,Littorina spp.,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Erato,vitellina,Apple-Seed Erato,,,,,,Erato vitellina,Erato vitellina,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Trivia,californiana,,,,,,,Trivia californiana,Trivia californiana,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Trivia,solandri,Solander's Trivia,Bonnie Becker,,,,,Trivia solandri,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Serpulorbis,squamigerus,Scaly tube snail,Bonnie Becker,,X,,,Serpulorbis squamigerus,Serpulorbis squamigerus,Serpulorbis squamigerus,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Vitrinella,oldroydi,,,,,,,Vitrinella oldroydi,Vitrinella oldroydi,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Kelletia,kelleti,Kellet's whelk,Bonnie Becker,,X,,,Kelletia kelleti,Kelletia kelleti,Kelletia kelletii,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Macron,lividus,Livid macron,Bonnie Becker,,X,,,Macron lividus,Macron lividus,Macron lividus,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Amphissa,versicolor,,SWAT 2002,,X,,,Amphissa versicolor,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Mitrella,carinata,Carinated Dove Snail,,,,,,Mitrella carinata,Mitrella carinata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Conus,californicus,California Cone,,,,,,Conus californicus,Conus californicus,Californiconus californicus,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Mitra,idae,Ida's Miter,,,,,,Mitra idae,Mitra idae,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ceratostoma,nuttalli,Nuttall's Hornmouth,,,,,,Ceratostoma nuttalli,Ceratostoma nuttalli,Ceratostoma nuttalli,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Ocenebra,circumtexta,Circled Rock Snail,SWAT 2002,,X,,,Ocenebra circumtexta,Ocenebra circumtexta,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Roperia,poulsoni,Poulson's Rock Snail,Bonnie Becker,,,,,Roperia poulsoni,Roperia poulsoni,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Olivella,biplicata,"Purple Olive, Purple Olivella",,,,,,Olivella biplicata,Olivella biplicata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Acanthina,spirata,Angular unicorn,SWAT 2002,,X,,,Acanthina spirata,Acanthina spirata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Pseudomelatoma,penicillata,,,,,,,Pseudomelatoma penicillata,Pseudomelatoma penicillata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Aeolidiella,chromosoma,,Jeff Goddard,,,,,Aeolidiella chromosoma,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Aeolidiella,oliviae,Olive's aeolid,Jeff Goddard,,,,,Aeolidiella oliviae,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Cadlina,flavomaculata,Yellow-spotted cadlina,,,,,,Cadlina flavomaculata,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Cadlina,sparsa,,Jeff Goddard,,,,,Cadlina sparsa,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Mexichromis,porterae,Porter's chromodorid,Jim Lance,,,,,Mexichromis porterae,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Conualevia,alba,White dorid,Jeff Goddard,,,,,Conualevia alba,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Doriopsilla,albopunctata,,Jim Lance,,,,,Doriopsilla albopunctata,Doriopsilla albopunctata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Doriopsilla,spp,Yellowgill porostome,Jim Lance,,,,,Doriopsilla spp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Dirona,picta,,Don Cadien,,,,,Dirona picta,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Diaulula,sandiegensis,San Diego dorid,Jeff Goddard,,,,,Diaulula sandiegensis,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Thordisa,bimaculata,,Ron Velarde,,,,,Thordisa bimaculata,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Doto,kya,Seal doto,Jeff Goddard,,,,,Doto kya,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Eubranchus,rustyus,,Jeff Goddard,,,,,Eubranchus rustyus,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Facelina,stearnsi,,Ron Velarde,,,,,Facelina stearnsi,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Hermissenda,crassicornis,Hermissenda,Don Cadien,,,,,Hermissenda crassicornis,Hermissenda crassicornis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Phidiana,hiltoni,Hilton's aeolid,Jeff Goddard,,,,,Phidiana hiltoni,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Flabellina,iodinea,,,,,,,Flabellina iodinea,Flabellina iodinea,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Flabellina,trilineata,Three lined aeolid,Jeff Goddard,,,,,Flabellina trilineata,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Hopkinsia,rosacea,Hopkin's Rose,Don Cadien,,,,,Hopkinsia rosacea,Hopkinsia rosacea,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Aegires,albopunctatus,,Don Cadien,,,,,Aegires albopunctatus,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Laila,cockerelli,,Don Cadien,,,,,Laila cockerelli,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Triopha,catalinae,Catalina triopha,Jeff Goddard,,,,,Triopha catalinae,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Triopha,maculata,,Ron Velarde,,,,,Triopha maculata,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Rostanga,pulchra,,Jeff Goddard,,,,,Rostanga pulchra,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Tritonia,myrakeenae,Myra's tritonia,Jeff Goddard,,,,,Tritonia myrakeenae,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Elysia,hedgpethi,Hedgpeth's sea hare,Jeff Goddard,,,,,Elysia hedgpethi,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Aplysiopsis,enteromorphae,,Jeff Goddard,,,,,Aplysiopsis enteromorphae,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Unidentified nemertea,spp,,,,,,,Unidentified nemertea spp,Unidentified nemertea spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Unid platyhelminthes,spp,,,,,,,Unid platyhelminthes spp,Unid platyhelminthes spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Prostheceraeus,bellostriatus,Polyclad worm,Don Cadien,,,,,Prostheceraeus bellostriatus,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Autolytus,spp,,Leslie Harris,,,,,Autolytus spp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Exogone,lourei,,Leslie Harris,,,,,Exogone lourei,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,mobile,mobile invertebrates
+Eupomatis,gracilis,,,,,,,Eupomatis gracilis,Eupomatis gracilis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Spirorbis,eximius,,,,,,,Spirorbis eximius,Spirorbis eximius,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Spirorbis,spirillum,,,,,,,Spirorbis spirillum,Spirorbis spirillum,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Spirorbis,spp,,SWAT 2002,,X,,,Spirorbis spp,Spirorbis spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Unidentified tube worm,spp,,,,,,,Unidentified tube worm spp,Unidentified tube worm spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Salmacina,tribranchiata,,,,,,,Salmacina tribranchiata,Salmacina tribranchiata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Astrangia,lajollaensis,,,,,,,Astrangia lajollaensis,Astrangia lajollaensis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Epiactus,prolifera,Brooding anemone,Bonnie Becker,,,,,Epiactus prolifera,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Brown bryozoan,spp,,,,,,,Brown bryozoan spp,Brown bryozoan spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Cauloramphus,spiniferum,,,,,,,Cauloramphus spiniferum,Cauloramphus spiniferum,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Crisia,maxima,,,,,,,Crisia maxima,Crisia maxima,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Eurystomella,bilabiata,,,,,,,Eurystomella bilabiata,Eurystomella bilabiata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Figularia,hilli,,,,,,,Figularia hilli,Figularia hilli,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Membranipora,fusca,,,,,,,Membranipora fusca,Membranipora fusca,Membranipora spp,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Red bryozoan,spp,,,,,,,Red bryozoan spp,Red bryozoan spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Unidentified ectoprocts,spp,,,,,,,Unidentified ectoprocts spp,Unidentified ectoprocts spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Codakia,californica,,,,,,,Codakia californica,Codakia californica,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Cumingia,californica,,,,,,,Cumingia californica,Cumingia californica,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Hiatella,arctica,Little Gaper,,,,,,Hiatella arctica,Hiatella arctica,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Platyodon,cancellatus,Checked Borer,,,,,,Platyodon cancellatus,Platyodon cancellatus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Netastoma,rostrata,Beaked Piddock,,,,,,Netastoma rostrata,Netastoma rostrata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Penitella,penita,Flap-tipped Piddock,,,,,,Penitella penita,Penitella penita,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Modiolus,capax,Fat Horse Mussel,,,,,,Modiolus capax,Modiolus capax,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Adula,falcata,Rough Pea-Pod Borer,,,,,,Adula falcata,Adula falcata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Lithophaga,plumula,Date Mussel,,,,,,Lithophaga plumula,Lithophaga plumula,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Septifer,bifurcatus,Platform mussel,Bonnie Becker,,X,,,Septifer bifurcatus,Septifer bifurcatus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Leptopecten,monotimeris,Broad-Eared Pecten,,,,,,Leptopecten monotimeris,Leptopecten monotimeris,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Ostrea,lurida,"Native Oyster, Olympia Oyster",,,,,,Ostrea lurida,Ostrea lurida,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Hinnites,giganteus,Rock Scallop,,,,,,Hinnites giganteus,Hinnites giganteus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Trachycardium,quadragenarium,Spiny Cockle,,,,,,Trachycardium quadragenarium,Trachycardium quadragenarium,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Glans,carpenteri,Little Heart Clam,,,,,,Glans carpenteri,Glans carpenteri,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Chama,arcana,,,,,,,Chama arcana,Chama arcana,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Pseudochama,exogyra,Reversed chama,Bonnie Becker,,X,,,Pseudochama exogyra,Pseudochama exogyra,Pseudochama exogyra,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Lasaea,subviridis,,,,,,,Lasaea subviridis,Lasaea subviridis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Nuttallia,nuttallii,Purple Clam,,,,,,Nuttallia nuttallii,Nuttallia nuttallii,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Semele,decisa,Clipped Semele,,,,,,Semele decisa,Semele decisa,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Semele,rupicola,Semele-of-the-rocks,,,,,,Semele rupicola,Semele rupicola,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Diplodonta,orbella,Round Diplodonta,,,,,,Diplodonta orbella,Diplodonta orbella,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Chione,undatella,Wavy Chione,,,,,,Chione undatella,Chione undatella,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Protothaca,staminea,Common Littleneck Clam,,,,,,Protothaca staminea,Protothaca staminea,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Haliotis,corrugata,Pink Abalone,,,,,,Haliotis corrugata,Haliotis corrugata,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Haliotis,cracherodii,Black Abalone,,,,,,Haliotis cracherodii,Haliotis cracherodii,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Haliotis,fulgens,Green abalone,Bonnie Becker,,,,,Haliotis fulgens,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Haliotis,rufescens,Red Abalone,,,,,,Haliotis rufescens,Haliotis rufescens,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Barbatia,bailyi,Baily's Ark,,,,,,Barbatia bailyi,Barbatia bailyi,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Nuttalina,californica,,SWAT 2002,,X,,,Nuttalina californica,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Nuttalina,fluxa,Troglodyte chiton,Bonnie Becker,,,,,Nuttalina fluxa,Nuttalina fluxa,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Lepidochitona,hartwegii,,SWAT 2002,,X,,,Lepidochitona hartwegii,Lepidochitona hartwegii,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Lepidozona,californiensis,,,,,,,Lepidozona californiensis,Lepidozona californiensis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Stenoplax,conspicua,Conspicuous Chiton,,,,,,Stenoplax conspicua,Stenoplax conspicua,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Mopalia,muscosa,Mossy Chiton,,,,,,Mopalia muscosa,Mopalia muscosa,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Hymeniacidon,spp,,,,,,,Hymeniacidon spp,Hymeniacidon spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Leucosolenia,spp,,,,,,,Leucosolenia spp,Leucosolenia spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Mycale,macginitiei,,,,,,,Mycale macginitiei,Mycale macginitiei,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Unid encrusting sponge,spp,,,,,,,Unid encrusting sponge spp,Unid encrusting sponge spp,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Plocamia,karykina,,,,,,,Plocamia karykina,Plocamia karykina,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Xestospongia,vanilla,,,,,,,Xestospongia vanilla,Xestospongia vanilla,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Cliona,celata var californiana,,,,,,,Cliona celata var californiana,Cliona celata var californiana,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Ascidia,paratropa,,,,,,,Ascidia paratropa,Ascidia paratropa,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Cnemidocarpa,finmarkiensus,,,,,,,Cnemidocarpa finmarkiensus,Cnemidocarpa finmarkiensus,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Euherdmania,claviformis,,,,,,,Euherdmania claviformis,Euherdmania claviformis,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+,,,,,,,,NA,NA,Eudistoma psammion,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+,,,,,,,,NA,NA,Haliclona spp,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+,,,,,,,,NA,NA,Pista spp,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+,,,,,,,,NA,NA,Tegula gallina/funebralis,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Mooreonuphis,stigmatis,,Leslie Harris,,,,,Mooreonuphis stigmatis,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Pareurythoe,californica,,Leslie Harris,,,,,Pareurythoe californica,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Notomastus,tenuis,,Leslie Harris,,,,,Notomastus tenuis,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Axiothella,rubrocincta,,Leslie Harris,,,,,Axiothella rubrocincta,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Petaloproctus,neoborealis,,Leslie Harris,,,,,Petaloproctus neoborealis,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Arabella,iricolor,,Leslie Harris,,,,,Arabella iricolor,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Arabella,semimaculata,,Leslie Harris,,,,,Arabella semimaculata,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Drilonereis,spp,,Leslie Harris,,,,,Drilonereis spp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Flabelliderma,essenbergae,,Leslie Harris,,,,,Flabelliderma essenbergae,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Naineris,dendritica,,Leslie Harris,,,,,Naineris dendritica,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Hemipodus,borealis,,Leslie Harris,,,,,Hemipodus borealis,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Nereis,mediator,,Leslie Harris,,,,,Nereis mediator,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Platynereis,bicanaliculata,,Leslie Harris,,,,,Platynereis bicanaliculata,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Eulalia,spp,,Leslie Harris,,,,,Eulalia spp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Pterocirrus,spp,,Leslie Harris,,,,,Pterocirrus spp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Synelmis,spp,,Leslie Harris,,,,,Synelmis spp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Typosylis,ui,,Leslie Harris,,,,,Typosylis ui,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Serpula,vermicularis,,SWAT 2002,,X,,,Serpula vermicularis,NA,Serpula vermicularis,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,sessile,sessile invertebrates
+Macrochaeta,spp,,Leslie Harris,,,,,Macrochaeta spp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Cirriformia,spirabrancha,,Leslie Harris,,,,,Cirriformia spirabrancha,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Dodecaceria,fewkesi,,Leslie Harris,,,,,Dodecaceria fewkesi,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Poecilochaetidae,ui,,Leslie Harris,,,,,Poecilochaetidae ui,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+Polycirrus,spp,,Leslie Harris,,,,,Polycirrus spp,NA,NA,OTHINV,Other invertebrates,OTHANI,Animals,OTHINV,Other invertebrates,,,
+,,,,,,,,NA,NA,Blue Green Algae,OTHPLA,Other plants,OTHPLA,Algae/plants,OTHPLA,Other algae/plants,,sessile,algae
+,,,,,,,,NA,NA,Diatom,OTHPLALG,Other plants/algae,OTHPLA,Algae/plants,OTHPLA,Other algae/plants,,sessile,algae
+Caulacanthus,ustulatus,,SWAT 2002,,X,,,Caulacanthus ustulatus,NA,NA,CAUUST,Caulacanthus ustulatus,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Porphyrella,californica,,,,,,,Porphyrella californica,Porphyrella californica,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Erythrotrichia,spp,,,,,,,Erythrotrichia spp,Erythrotrichia spp,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Smithora,naiadum,,,,,,,Smithora naiadum,Smithora naiadum,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Callithamnion,biseriatum,,,,,,,Callithamnion biseriatum,Callithamnion biseriatum,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Callithamnion,rupicolum,,,,,,,Callithamnion rupicolum,Callithamnion rupicolum,Callithamnion rupicola,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Centroceras,clavulatum,,,,,,,Centroceras clavulatum,Centroceras clavulatum,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Centroceras ceramium,spp,,SWAT 2002,,X,,,Centroceras ceramium spp,NA,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Ceramium,eatonianum,,,,,,,Ceramium eatonianum,Ceramium eatonianum,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Ceramium,spp,,,,,,,Ceramium spp,Ceramium spp,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Griffithsia,pacifica,,,,,,,Griffithsia pacifica,Griffithsia pacifica,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Microcladia,coulteri,,SWAT 2002,,X,,,Microcladia coulteri,NA,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Platysiphonia,parva,,,,,,,Platysiphonia parva,Platysiphonia parva,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Spyridia,filamentosa,,SWAT 2002,,X,X,,Spyridia filamentosa,NA,Spyridia filamentosa,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Tiffaniella,snyderiae,,SWAT 2002,,X,X,,Tiffaniella snyderiae,NA,Tiffaniella snyderiae,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Heterosiphonia,erecta,,,,,,,Heterosiphonia erecta,Heterosiphonia erecta,Heterosiphonia erecta,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Heterosiphonia,japonica,,SWAT 2002,,X,X,,Heterosiphonia japonica,NA,Dasysiphonia japonica,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Pogonophorella,californica,,,,,,,Pogonophorella californica,Pogonophorella californica,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Acrosorium,uncinatum,,SWAT 2002,,X,,,Acrosorium uncinatum,Acrosorium uncinatum,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Anisocladella,pacifica,,SWAT 2002,,X,,,Anisocladella pacifica,Anisocladella pacifica,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Cryptopleura,corallinara,,,,,,,Cryptopleura corallinara,Cryptopleura corallinara,Cryptopleura/Hymenena spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Cryptopleura,crispa,,,,,,,Cryptopleura crispa,Cryptopleura crispa,Cryptopleura/Hymenena spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Cryptopleura,rosacea,,,,,,,Cryptopleura rosacea,Cryptopleura rosacea,Cryptopleura/Hymenena spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Cryptopleura,violacea,,,,,,,Cryptopleura violacea,NA,Cryptopleura/Hymenena spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Cryptopleura hymenena,spp,,SWAT 2002,,X,,,Cryptopleura hymenena spp,NA,Cryptopleura/Hymenena spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Nienburgia,andersoniana,,SWAT 2002,,X,X,,Nienburgia andersoniana,NA,Nienburgia andersoniana,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Chondria,acrorhiza,,SWAT 2002,,X,X,,Chondria acrorhiza,NA,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Chondria,acrorhizophora,,,,,,,Chondria acrorhizophora,Chondria acrorhizophora,Chondria acrorhizophora,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Chondria,arcuata,,,,,,,Chondria arcuata,Chondria arcuata,Chondria arcuata,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Chondria,californica,,SWAT 2002,,X,X,,Chondria californica,NA,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Chondria,nidifica,,SWAT 2002,,X,X,,Chondria nidifica,Chondria nidifica,Chondria nidifica,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Chondria,oppositiclada,,SWAT 2002,,X,X,,Chondria oppositiclada,NA,Chondria oppositiclada,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Chondria,spp,,,,,,,Chondria spp,Chondria spp,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Erythrocystis,saccata,,,,,,,Erythrocystis saccata,Erythrocystis saccata,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Herposiphonia,verticillata,,,,,,,Herposiphonia verticillata,Herposiphonia verticillata,Heterosiphonia spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Janczwewskia,lappacea,,,,,,,Janczwewskia lappacea,Janczwewskia lappacea,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Jantinella,verrucaeformis,,,,,,,Jantinella verrucaeformis,Jantinella verrucaeformis,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Laurencia,pacifica,,Tiffany Luas,,X,X,,Laurencia pacifica,Laurencia pacifica,Laurencia pacifica/masonii,LAUSPP,Laurencia,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Laurencia,sinicola,,SWAT 2002,,X,,,Laurencia sinicola,Laurencia sinicola,Osmundea sinicola,OSMSPP,Osmundea species,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Laurencia,spectabilis var diegoensis,,Tiffany Luas,,,X,,Laurencia spectabilis var diegoensis,Laurencia spectabilis var diegoensis,Ceramiales,LAUSPP,Laurencia,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Laurencia,splendens,,,,,,,Laurencia splendens,Laurencia splendens,Osmundea splendens,OSMSPP,Osmundea species,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Laurencia,subopposita,,Tiffany Luas,,,X,,Laurencia subopposita,Laurencia subopposita,Ceramiales,LAUSPP,Laurencia,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Levringiella,gardneri,,,,,,,Levringiella gardneri,Levringiella gardneri,Ceramiales,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Osmundea,spectabilis,,SWAT 2002,,X,,,Osmundea spectabilis,NA,Osmundea spectabilis,OSMSPP,Osmundea species,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Polysiphonia,savatieri,,,,,,,Polysiphonia savatieri,Polysiphonia savatieri,Polysiphonia spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Polysiphonia,scopulorum var villum,,,,,,,Polysiphonia scopulorum var villum,Polysiphonia scopulorum var villum,Polysiphonia spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Polysiphonia,spp,,SWAT 2002,,X,,,Polysiphonia spp,NA,Polysiphonia spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Pterosiphonia,baileyi,,SWAT 2002,,X,,,Pterosiphonia baileyi,Pterosiphonia baileyi,Pterosiphonia baileyi,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Pterosiphonia,bipinnata,,SWAT 2002,,X,,,Pterosiphonia bipinnata,NA,Pterosiphonia bipinnata,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Pterosiphonia,dendroidea,,SWAT 2002,,X,,,Pterosiphonia dendroidea,Pterosiphonia dendroidea,Pterosiphonia dendroidea/pennata,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Amphiroa,zonata,,SWAT 2002,,X,X,,Amphiroa zonata,NA,Amphiroa beauvoisii,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Fosliella,paschalis,,,,,,,Fosliella paschalis,Fosliella paschalis,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Jania,crassa,,SWAT 2002,,X,X,,Jania crassa,Jania crassa,Jania verrucosa,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Lithothamnion,spp,,,,,,,Lithothamnion spp,Lithothamnion spp,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Lithothrix,aspergillum,,SWAT 2002,,X,,,Lithothrix aspergillum,Lithothrix aspergillum,Lithothrix aspergillum,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Melobesia,mediocris,,,,,,,Melobesia mediocris,Melobesia mediocris,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Mesophyllum,conchatum,,,,,,,Mesophyllum conchatum,Mesophyllum conchatum,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Prionitis,angusta,,SWAT 2002,,X,X,,Prionitis angusta,NA,Prionitis angusta,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Prionitis,cornea,,SWAT 2002,,X,X,,Prionitis cornea,NA,Prionitis cornea,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Prionitis,lanceolata,,SWAT 2002,,X,,,Prionitis lanceolata,Prionitis lanceolata,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Prionitis,lyalii,,SWAT 2002,,X,,,Prionitis lyalii,NA,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Prionitis,spp,,SWAT 2002,,X,X,,Prionitis spp,NA,Prionitis sternbergii,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Gloiosiphonia,verticillaris,,,,,,,Gloiosiphonia verticillaris,Gloiosiphonia verticillaris,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Callophyllis,firma,,,,,,,Callophyllis firma,Callophyllis firma,Callophyllis spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Leptocladia,binghamiae,,,,,,,Leptocladia binghamiae,Leptocladia binghamiae,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Chondracanthus,leptorhynchos,,SWAT 2002,,X,,,Chondracanthus leptorhynchos,NA,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Gigartina,tepida,,,,,,,Gigartina tepida,Gigartina tepida,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Gracilaria,andersonii,,SWAT 2002,,X,,,Gracilaria andersonii,Gracilaria andersonii,Gracilariopsis/Gracilaria spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Gracilaria,veleroae,,,,,,,Gracilaria veleroae,Gracilaria veleroae,Gracilariopsis/Gracilaria spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Hypnea,johnstonii,,,,,,,Hypnea johnstonii,Hypnea johnstonii,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Hypnea,valentiae,,SWAT 2002,,X,X,,Hypnea valentiae,Hypnea valentiae,Hypnea valentiae,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Opuntiella,californica,,,,,,,Opuntiella californica,Opuntiella californica,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Gymnogongrus,leptophyllus,,SWAT 2002,,X,,,Gymnogongrus leptophyllus,NA,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Ozophora,latifolia,,,,,,,Ozophora latifolia,Ozophora latifolia,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Petroglossum,pacificum,,,,,,,Petroglossum pacificum,Petroglossum pacificum,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Petroglossum,parvum,,,,,,,Petroglossum parvum,Petroglossum parvum,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Plocamium,cartilagineum,,Tiffany Luas,,X,X,,Plocamium cartilagineum,Plocamium cartilagineum,Plocamium pacificum,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Acrochaetium,pacificum,,,,,,,Acrochaetium pacificum,Acrochaetium pacificum,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Acrochaetium,thuretii,,,,,,,Acrochaetium thuretii,Acrochaetium thuretii,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Pterocladiella,caloglossoides,,,,,,,Pterocladiella caloglossoides,Pterocladiella caloglossoides,Pterocladiella capillacea,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Pterocladiella,capillacea,,Tiffany Luas,,X,X,,Pterocladiella capillacea,Pterocladiella capillacea,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Cumagloia,andersonii,,,,,,,Cumagloia andersonii,Cumagloia andersonii,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Binghamia,californica,,,,,,,Binghamia californica,Binghamia californica,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Champia,parvula,,,,,,,Champia parvula,Champia parvula,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Coeloseira,compressa,,,,,,,Coeloseira compressa,Coeloseira compressa,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Coeloseira,parva,,,,,,,Coeloseira parva,Coeloseira parva,NA,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Gastroclonium,subarticulatum,,Tiffany Luas,,X,X,,Gastroclonium subarticulatum,Gastroclonium subarticulatum,Gastroclonium subarticulatum,GASTRO,Gastroclonium species,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Rhodymenia,californica,,SWAT 2002,,X,,,Rhodymenia californica,Rhodymenia californica,Rhodymenia californica,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+Rhodymenia,pacifica,,SWAT 2002,,X,X,,Rhodymenia pacifica,Rhodymenia pacifica,Rhodymenia pacifica,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Chondracanthus spinosus,CHOSPI,Chondracanthus spinosa,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Gastroclonium parvum,GASTRO,Gastroclonium species,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Acrosorium ciliolatum,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Ahnfeltia fastigiata,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Ahnfeltiopsis leptophylla,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Bangia spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Chondria dasyphylla,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Cryptonemia spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Dasya binghamiae,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Erythroglossum californicum,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Farlowia/Pikea spp,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Herposiphonia littoralis,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Hypnea variabilis,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Lomentaria hakodatensis,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Nemalion elminthoides,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Plocamium pacificum,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Sarcodiotheca gaudichaudii,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Scinaia confusa,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,,sessile,algae
+,,,,,,,,NA,NA,Caulacanthus okamurae,OTHRED,Other red algae,OTHPLA,Algae/plants,OTHRED,Other red algae,sessile,sessile,algae
+,,,not seen?,,,,,NA,NA,Pelvetiopsis arborescens/hybrida/limitata,PELLIM,Pelvetiopsis limitata,OTHPLA,Algae/plants,PELLIM,Pelvetiopsis limitata,,sessile,algae
+Phragmatopoma,californica,Sandcastle worms,Leslie Harris,,X,,,Phragmatopoma californica,Phragmatopoma californica,Phragmatopoma/Sabellaria spp,PHRCAL,Phragmatopoma californica,OTHANI,Animals,PHRCAL,Phragmatopoma californica,,sessile,sessile invertebrates
+Phyllospadix,scouleri,,SWAT 2002,,X,,,Phyllospadix scouleri,NA,Phyllospadix scouleri,PHYOVR,Phyllospadix scouleri/torreyi,OTHPLA,Algae/plants,PHYOVR,Phyllospadix scouleri/torreyi,,sessile,algae
+Phyllospadix,torreyi,,SWAT 2002,,X,,,Phyllospadix torreyi,NA,Phyllospadix torreyi,PHYOVR,Phyllospadix scouleri/torreyi,OTHPLA,Algae/plants,PHYOVR,Phyllospadix scouleri/torreyi,,sessile,algae
+Pisaster,ochraceus,Ochre seastar,,,,,,Pisaster ochraceus,Pisaster ochraceus,Pisaster ochraceus,PISOCH,Pisaster ochraceus,OTHANI,Animals,PISOCH,Pisaster ochraceus,,mobile,mobile invertebrates
+Pollicipes,polymerus,"Goose Barnacle, Goose-neck barnacle, Leaf barnacle",Bonnie Becker,,X,,,Pollicipes polymerus,Pollicipes polymerus,Pollicipes polymerus,POLPOL,Pollicipes polymerus,POLPOL,Pollicipes polymerus,POLPOL,Pollicipes polymerus,,sessile,sessile invertebrates
+Porphyra,spp,,SWAT 2002,,X,,,Porphyra spp,NA,Pyropia spp,PORSPP,Porphyra spp,OTHPLA,Algae/plants,PORSPP,Porphyra spp,,sessile,algae
+Sargassum,muticum,Invasive sargassum weed,Chris Janousek,,X,,,Sargassum muticum,Sargassum muticum,Sargassum muticum,SARMUT,Sargassum muticum,OTHPLA,Algae/plants,SARMUT,Sargassum muticum,,sessile,algae
+Scytosiphon,dotyi,,,,,,,Scytosiphon dotyi,Scytosiphon dotyi,Melanosiphon/Scytosiphon spp,SCYSPP,Scytosiphon spp,OTHPLA,Algae/plants,SCYSPP,Scytosiphon spp,,sessile,algae
+Scytosiphon,lomentaria,,SWAT 2002,,X,,,Scytosiphon lomentaria,NA,Melanosiphon/Scytosiphon spp,SCYSPP,Scytosiphon spp,OTHPLA,Algae/plants,SCYSPP,Scytosiphon spp,,sessile,algae
+Scytosiphon,spp,,SWAT 2002,,X,X,,Scytosiphon spp,NA,Melanosiphon/Scytosiphon spp,SCYSPP,Scytosiphon spp,OTHPLA,Algae/plants,SCYSPP,Scytosiphon spp,,sessile,algae
+Silvetia,compressa,Rock weed,Tiffany Luas,,X,X,,Silvetia compressa,Silvetia compressa,Silvetia compressa,SILCOM,Silvetia compressa,SILCOM,Silvetia compressa,SILCOM,Silvetia compressa,,sessile,algae
+Cystoseira,osmundacea,,,,,,,Cystoseira osmundacea,Cystoseira osmundacea,Stephanocystis osmundacea,STESPP,Stephanocystis spp,OTHPLA,Algae/plants,STEDIO,Stephanocystis dioica,,sessile,algae
+Cystoseira,setchelli,,,,,,,Cystoseira setchelli,Cystoseira setchelli,Stephanocystis setchellii,STESPP,Stephanocystis spp,OTHPLA,Algae/plants,STEDIO,Stephanocystis dioica,,sessile,algae
+Halidrys,dioica,,Chris Janousek,,X,,,Halidrys dioica,Halidrys dioica,Stephanocystis dioica,STEDIO,Stephanocystis dioica,OTHPLA,Algae/plants,STEDIO,Stephanocystis dioica,,sessile,algae
+Tetraclita,rubescens,Pink thatched barnacle,Bonnie Becker,,X,,,Tetraclita rubescens,Tetraclita rubescens,Tetraclita rubescens,TETRUB,Tetraclita rubescens,TETRUB,Tetraclita rubescens,TETRUB,Tetraclita rubescens,,sessile,sessile invertebrates
+Enteromorpha,compressa,,,,,,,Enteromorpha compressa,Enteromorpha compressa,Ulvophyceae,ULVENT,Ulva/enteromorpha,OTHPLA,Algae/plants,ULVENT,Ulva/enteromorpha,,sessile,algae
+Enteromorpha,flexuosa,,,,,,,Enteromorpha flexuosa,Enteromorpha flexuosa,Ulvophyceae,ULVENT,Ulva/enteromorpha,OTHPLA,Algae/plants,ULVENT,Ulva/enteromorpha,,sessile,algae
+Enteromorpha,spp,,SWAT 2002,,X,,,Enteromorpha spp,Enteromorpha spp,Ulvophyceae,ULVENT,Ulva/enteromorpha,OTHPLA,Algae/plants,ULVENT,Ulva/enteromorpha,,sessile,algae
+Ulva,angusta,,,,,,,Ulva angusta,Ulva angusta,Ulvophyceae,ULVENT,Ulva/enteromorpha,OTHPLA,Algae/plants,ULVENT,Ulva/enteromorpha,,sessile,algae
+Ulva,californica,,,,,,,Ulva californica,Ulva californica,Ulvophyceae,ULVENT,Ulva/enteromorpha,OTHPLA,Algae/plants,ULVENT,Ulva/enteromorpha,,sessile,algae
+Ulva,rigida,,,,,,,Ulva rigida,Ulva rigida,Ulvophyceae,ULVENT,Ulva/enteromorpha,OTHPLA,Algae/plants,ULVENT,Ulva/enteromorpha,,sessile,algae
+Ulva,spp,,SWAT 2002,,X,,,Ulva spp,NA,Ulvophyceae,ULVENT,Ulva/enteromorpha,OTHPLA,Algae/plants,ULVENT,Ulva/enteromorpha,,sessile,algae
